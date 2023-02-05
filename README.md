@@ -40,3 +40,6 @@ Similarly, I expect 0.4 to raise some eyebrows. Questions such as: "How will Pho
 To keep this document relatively short I haven't touched on these as well as numerous other topics but look forward to doing so in the future. Please take a few minutes to share your thoughts, questions, and concerns!
 
 **Discussion Link**: https://hachyderm.io/@davidshq/109795901908794239
+
+## 0.6 Additional Articles
+- [Human Augmentation in Web Search](S01.%20Human%20Augmentation.md)
