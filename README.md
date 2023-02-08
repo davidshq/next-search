@@ -43,3 +43,4 @@ To keep this document relatively short I haven't touched on these as well as num
 
 ## 0.6 Additional Articles
 - [Human Augmentation in Web Search](S01.%20Human%20Augmentation.md)
+- [The Trust Network](S02.%20The%20Trust%20Network.md)
