@@ -1,5 +1,22 @@
 # Thinking Through The Future of Web Search
 
+## 0.0 Table of Contents
+- 0.1 Please
+- 0.2 Phoebe?
+- 0.3 Characteristics
+- 0.4 Philosophical Characteristics
+    - 0.4.1 Phoebe will be pervasively open
+    - 0.4.2 Phoebe will be privacy centric
+    - 0.4.3 Phoebe will be people centric
+- 0.5 Human Augmentation: The Foundational Characteristic
+- 0.6 More to Come
+- 0.7 Additional Articles
+    - Human Augmentation in Web Search
+    - The Trust Network
+    - Privacy Centric
+    - Blog Posts
+- 0.8 Footnotes
+
 ## 0.1 Please
 I'm pushing these thoughts into the public sphere for two primary reasons:
 
@@ -42,7 +59,7 @@ Phoebe seeks to bring a synergy between machine and human capabilities. Machines
 
 Phoebe will leverage the best methods of information retrieval through automated/mechanical means but it will also integrate *active*[^active] human curation / collaboration. Users will be able to actively contribute to the ranking of search results. Expect to see a lot more on what this involves in future articles.
 
-## 0.5 More to Come
+## 0.6 More to Come
 Much of what I've written here may raise more questions than it answers. I don't anticipate that 0.4.1 or 0.4.2 will raise many questions (feel free to prove me wrong) but I do expect 0.5. to raise questions. For example: "Human augmentation (collaborative search) has been tried in the past (and failed) - what will make Phoebe any different?"
 
 Similarly, I expect 0.4.3 to raise some eyebrows resulting in questions such as: 
@@ -54,12 +71,16 @@ To keep this document relatively short I haven't touched on these as well as num
 
 **Discussion Link**: https://hachyderm.io/@davidshq/109795901908794239
 
-## 0.6 Additional Articles
+## 0.7 Additional Articles
 The following articles are part of this series and provide additional insight into how Phoebe will work:
 - [Human Augmentation in Web Search](S01.%20Human%20Augmentation.md)
 - [The Trust Network](S02.%20The%20Trust%20Network.md)
+- [Privacy Centric](S03.%20Privacy%20Centric.md)
 
-## 0.7 Footnotes
+### Blog Posts
+- 28-02-2023 - [For the Long Haul](https://github.com/davidshq/next-search/blob/main/blog/28-02-2023-long-haul.md).
+
+## 0.8 Footnotes
 [^revenue]: In fact, several of these commitments will result in Phoebe being less profitable in one sense (for a small number of stakeholders) but more profitable in another sense (for humanity at large).
 [^silverbullet]: Unseating Google and delivering a significantly superior search experience is not a simple, straightforward task - there are many complexities involved. In one sense there is no *silver bullet* to search - no one, simple thing that can drastically improve search. On the other hand, I believe that there is a fundamental ingredient missing from contemporary search engines that is the necessary characteristic for delivering a superior search experience and unseating the current incumbent. In this sense there is a *silver bullet* to search - it is simple at a high level. However "the devil is in the details" as they say and this high-level simplicitly requires significant complexity at the implementation level.
 [^pii]: Personally Identifiable Information
