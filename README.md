@@ -11,10 +11,12 @@
 - 0.5 Human Augmentation: The Foundational Characteristic
 - 0.6 More to Come
 - 0.7 Additional Articles
-    - Human Augmentation in Web Search
-    - The Trust Network
-    - Privacy Centric
-    - Blog Posts
+    - 0.7.1 Articles
+        - Human Augmentation in Web Search
+        - The Trust Network
+        - Privacy Centric
+    - 0.7.2 Blog Posts
+    - 0.7.3 Other Resources
 - 0.8 Footnotes
 
 ## 0.1 Please
@@ -71,14 +73,20 @@ To keep this document relatively short I haven't touched on these as well as num
 
 **Discussion Link**: https://hachyderm.io/@davidshq/109795901908794239
 
-## 0.7 Additional Articles
+## 0.7 Additional Resources
+
+### 0.7.1 Articles
 The following articles are part of this series and provide additional insight into how Phoebe will work:
 - [Human Augmentation in Web Search](S01.%20Human%20Augmentation.md)
 - [The Trust Network](S02.%20The%20Trust%20Network.md)
 - [Privacy Centric](S03.%20Privacy%20Centric.md)
 
-### Blog Posts
+### 0.7.2 Blog Posts
 - 28-02-2023 - [For the Long Haul](https://github.com/davidshq/next-search/blob/main/blog/28-02-2023-long-haul.md).
+
+### 0.7.3 Other Resources
+- [A Brief, Incomplete, and Mostly Wrong History of Search Engines](https://github.com/davidshq/mostly-wrong-history-search-engines)
+- [Awesome Search Engines](https://github.com/davidshq/awesome-search-engines)
 
 ## 0.8 Footnotes
 [^revenue]: In fact, several of these commitments will result in Phoebe being less profitable in one sense (for a small number of stakeholders) but more profitable in another sense (for humanity at large).
