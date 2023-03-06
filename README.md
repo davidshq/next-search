@@ -15,6 +15,7 @@
         - Human Augmentation in Web Search
         - The Trust Network
         - Privacy Centric
+        - Radically Open
     - 0.7.2 Blog Posts
     - 0.7.3 Other Resources
 - 0.8 Footnotes
@@ -80,6 +81,7 @@ The following articles are part of this series and provide additional insight in
 - [Human Augmentation in Web Search](S01.%20Human%20Augmentation.md)
 - [The Trust Network](S02.%20The%20Trust%20Network.md)
 - [Privacy Centric](S03.%20Privacy%20Centric.md)
+- [Radically Open](S04.%20Radically%20Open.md)
 
 ### 0.7.2 Blog Posts
 - 28-02-2023 - [For the Long Haul](https://github.com/davidshq/next-search/blob/main/blog/28-02-2023-long-haul.md).
