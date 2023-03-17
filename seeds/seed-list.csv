@@ -1,0 +1,432 @@
+url	recommender	category1	category2	category3	category4	category5	category6	category7	category8	category9	category10	additional_categories
+zettlr.com	davidshq	markdown	open-source									
+zerotomastery.io	davidshq	coding										
+zerotier.com	davidshq	vpn	security									
+zapier.com	davidshq	automation										
+youneedabudget.com	davidshq	financial	personal-finance	software	paid-subscription							
+yarnpkg.com	davidshq	node.js	dependency-management									
+xrdp.org	davidshq	rdp	software									
+xebug.org	davidshq	debugging	php	coding								
+wptavern.com	davidshq	wordpress	php	coding								
+wpshout.com	davidshq	wordpress	php	coding								
+wpmudev.com	davidshq	wordpress	php	coding	hosting							
+wpbeginner.com	davidshq	wordpress	php	coding								
+worldhistory.org	davidshq	history	encyclopedia									
+cloudflare.com	davidshq	security	hosting	dns	ssl	ddos						
+wordpress.org	davidshq	wordpress	coding	open-source								
+wireshark.org	davidshq	network	packet-analysis	security	open-source							
+wikimediafoundation.org	davidshq	non-profit	open-source									
+whocanuse.com	davidshq	accessibility	coding									
+whatwg.org	davidshq	web-development	coding	standards								
+wesnoth.org	davidshq	computer-game	fantasy-game	open-source								
+webpack.js.org	davidshq	coding	bundler	javascript	open-source							
+webflow.com	davidshq	low-code	rad									
+webdriver.io	davidshq	brower-automation	mobile-automation	node.js								
+webdevstudios.com	davidshq	wordpress										
+web.hypothes.is	davidshq	annotations	research	open-source								
+web.dev	davidshq	coding	html	css	javascript							
+wagtail.org	davidshq	django	cms	open-source								
+w3.org	davidshq	standards	web									
+vuetifyjs.com	davidshq	vue	front-end	open-source								
+vuestic.com	davidshq	vue	front-end	open-source								
+vtk.org	davidshq	visualization	medical-visualization	data-visualization	scientific-visualization	open-source						
+vitest.dev	davidshq	vite	unit-test	open-source								
+visualcapitalist.com	davidshq	infographics	financial	economics								
+videolan.org	davidshq	media-player	open-source									
+vagrantup.com	davidshq	vagrant	virtual-machine	coding								
+usability.gov	davidshq	usability	coding									
+unroll.me	davidshq	email	spam	productivity								
+mongodb.com	davidshq	database	open-source									
+atlassian.com	davidshq	jira	confluence	bitbucket	coding							
+supabase.io	davidshq	saas	open-source	rad	coding							
+ui.com	davidshq	ubiquiti	network	wireless								
+udemy.com	davidshq	education	video-education									
+ubuntu.com	davidshq	os	linux	open-source								
+typescriptlang.org	davidshq	javascript	coding	typescript								
+tutorialspoint.com	davidshq	tutorials	coding									
+turbovnc.org	davidshq	vnc	remote-access	open-source								
+triplea-game.org	davidshq	computer-game	strategy-game	open-source								
+treygrainger.com	davidshq	search	solr									
+towardsdatascience.com	davidshq	data-science	coding									
+torquemag.io	davidshq	wordpress	coding									
+tommcfarlin.com	davidshq	wordpress	coding									
+toggl.com	davidshq	productivity										
+tiobe.com	davidshq	coding										
+timescaledb.com	davidshq	sql	database	time-series								
+thunderbird.net	davidshq	email	open-source									
+thoughtworks.com	davidshq	coding										
+theodinproject.com	davidshq	coding	ruby-on-rails									
+thenewstack.io	davidshq	news	tech-news	blog	coding							
+thehackernews.com	davidshq	news	tech-news	coding								
+terraform.io	davidshq	infrastructure-as-code	open-source									
+techsoup.org	davidshq	non-profit	donations									
+teachyourselfcs.com	davidshq	coding	computer-science									
+taniarascia.com	davidshq	individual	software-engineer	coding	wordpress	graphql	redux	react				
+tally.so	davidshq	forms										
+tailwindcss.com	davidshq	css	css-framework									
+tabinine.com	davidshq	ai	coding	productivity								
+swc.rs	davidshq	coding	rust									
+stackoverflow.com	davidshq	coding										
+superuser.com	davidshq	tech										
+apache.org	davidshq	lucene	solr	nutch	superset	spark						
+storybook.js.org	davidshq	storybook	testing	design	javascript	react						
+stormcrawler.net	davidshq	web-crawler	open-source									
+steampipe.io	davidshq											
+stackblitz.com	davidshq											
+sqlitetutorial.net	davidshq											
+sqlitebrowser.org	davidshq											
+spotify.com	davidshq	music										
+ieee.org	davidshq											
+spacy.io	davidshq	NLP										
+soylent.com	davidshq	food										
+sourcery.ai	davidshq											
+sonarqube.org	davidshq											
+sonarlint.org	davidshq											
+solidjs.com	davidshq											
+snyk.io	davidshq											
+github.com	davidshq											
+snipcart.com	davidshq											
+expo.dev	davidshq											
+smashingmagazine.com	davidshq											
+smartdraw.com	davidshq											
+slack.com	davidshq											
+sitepoint.com	davidshq											
+siteground.com	davidshq	hosting										
+sigstore.dev	davidshq											
+serverfault.com	davidshq											
+sentry.io	davidshq											
+semrush.com	davidshq											
+scrapy.org	davidshq											
+scikit-learn.org	davidshq	machine-learning										
+scientificamerican.com	davidshq	science										
+salferrarello.com	davidshq											
+ryanemitchell.com	davidshq											
+rust-lang.org	davidshq											
+rufus.ie	davidshq	USB										
+rubyonrails.org	davidshq	ruby-on-rails										
+rowy.io	davidshq	rad										
+vuejs.org	davidshq	vue	vuex	vue-router								
+roots.io	davidshq	wordpress										
+robinwieruch.de	davidshq	coding										
+roadmap.sh	davidshq											
+richtabor.com	davidshq	wordpress										
+retool.com	davidshq	rad										
+researchgate.net	davidshq	research	science									
+remix.run	davidshq	full-stack										
+remarkable.com	davidshq	tablet										
+regexlearn.com	davidshq	regex										
+regex101.com	davidshq	regex										
+redux.js.org	davidshq	redux	react	state-management								
+redux-saga.js.org	davidshq	redux	react	state-management								
+redmonk.com	davidshq	coding										
+reddit.com	davidshq	discussion	news									
+redbook.io	davidshq	database	book									
+red-gate.com	davidshq	database										
+realpython.com	davidshq	python	coding									
+reactrouter.com	davidshq											
+react-bootstrap.github.io	davidshq											
+rclone.org	davidshq											
+raygun.com	davidshq											
+raspberrypi.org	davidshq											
+qt.io	davidshq											
+pyviz.org	davidshq											
+pytorch	davidshq											
+pythonanvil.com	davidshq											
+plainenglish.io	davidshq											
+python-poetry.org	davidshq											
+pyscript.net	davidshq											
+github.io	davidshq											
+pyodide.org	davidshq											
+psycopg.org	davidshq											
+protocol.ai	davidshq											
+programminghistorian.org	davidshq											
+producthunt.com	davidshq											
+prisma.io	davidshq											
+prettier.io	davidshq											
+pragdave.me	davidshq											
+postman.com	davidshq											
+postgresqltutorial.com	davidshq											
+postgresql.org	davidshq											
+podman-desktop.io	davidshq											
+pluralism.org	davidshq											
+playwright.dev	davidshq											
+plantuml.com	davidshq											
+pixabay.com	davidshq											
+unsplash.com	davidshq											
+phpunitde	davidshq											
+percona.com	davidshq											
+pencil.evolus.vn	davidshq											
+pbpython.com	davidshq											
+patterns.dev	davidshq											
+computer.org	davidshq											
+parsleyhealth.com	davidshq											
+parceljs.org	davidshq											
+pandoc.org	davidshq											
+packer.io	davidshq											
+owasp.org	davidshq											
+overreacted.io	davidshq											
+overleaf.com	davidshq											
+opensource.org	davidshq											
+opencollective.com	davidshq											
+okta.com	davidshq											
+auth0.com	davidshq											
+octave.org	davidshq											
+ocdtherapist.com	davidshq											
+obsidian.md	davidshq											
+observablehq.com	davidshq											
+nuxtjs.org	davidshq											
+nextjs.org	davidshq											
+npr.org	davidshq											
+bbc.com	davidshq											
+npmjs.com	davidshq											
+noupe.com	davidshq											
+notion.so	davidshq											
+notepad-plus-plus.org	davidshq											
+nolanlawson.com	davidshq											
+nodejs.org	davidshq											
+nocodb.com	davidshq											
+nltk.org	davidshq											
+stanford.edu	davidshq											
+nicepage.com	davidshq											
+ngrok.com	davidshq											
+nextjs.org	davidshq											
+pragmaticengineer.com	davidshq											
+ycombinator.com	davidshq											
+netlify.com	davidshq											
+netflix.com	davidshq											
+hulu.com	davidshq											
+netdata.cloud	davidshq											
+nestjs.com	davidshq											
+neliosoftware.com	davidshq											
+neilpatel.com	davidshq											
+ndepend.com	davidshq											
+nature.com	davidshq											
+nano-editor.org	davidshq											
+n8n.io	davidshq											
+mysql.com	davidshq											
+moz.com	davidshq											
+motionpillow.com	davidshq											
+monicahq.com	davidshq											
+mongoosejs.com	davidshq											
+moderncss.dev	davidshq											
+mochajs.org	davidshq											
+mitmproxy.org	davidshq											
+mindbloom.com	davidshq											
+memex.garden	davidshq											
+meetup.com	davidshq											
+mattlayman.com	davidshq											
+stackexchange.com	davidshq											
+martinfowler.com	davidshq											
+martin.kleppmann.com	davidshq											
+visualstudio.com	davidshq											
+manning.com	davidshq											
+oreilly.com	davidshq											
+vitejs.dev	davidshq											
+lwn.net	davidshq											
+jetbrains.com	davidshq											
+logrocket.com	davidshq											
+lodash.com	davidshq											
+llvm.org	davidshq											
+localwp.com	davidshq											
+litter-robot.com	davidshq											
+linkedin.com	davidshq											
+lifestance.com	davidshq											
+lifehacker.com	davidshq											
+letsencrypt.org	davidshq											
+lebabjs.com	davidshq											
+learnxinyminutes.com	davidshq											
+wikipedia.org	davidshq											
+learndjango.com	davidshq											
+laravel.com	davidshq											
+laputan.org	davidshq											
+kubernetes.io	davidshq											
+kristiakingmath.com	davidshq											
+kinsta.com	davidshq											
+khanacademy.org	davidshq											
+kentcdodds.com	davidshq											
+kencko.com	davidshq											
+kaggle.com	davidshq											
+jupyter.org	davidshq											
+jstor.org	davidshq											
+jsoncrack.com	davidshq											
+jscomplete.com	davidshq											
+joshwcomeau.com	davidshq											
+joinmastodon.org	davidshq											
+joelonsoftware.com	davidshq											
+codinghorror.com	davidshq											
+jestjs.io	davidshq											
+javascript.info	davidshq											
+jam-software.com	davidshq											
+jabramowitz.com	davidshq											
+isitdownrightnow.com	davidshq											
+ishadeed.com	davidshq											
+isaaccomputerscience.org	davidshq											
+ipfs.io	davidshq											
+iocdf.org	davidshq											
+internetsociety.org	davidshq											
+ck12.org	davidshq											
+inrupt.com	davidshq											
+inpsyde.com	davidshq											
+indieweb.org	davidshq											
+ietf.org	davidshq											
+ibm.com	davidshq											
+dell.com	davidshq											
+iamtimsmith.com	davidshq											
+htmx.org	davidshq											
+hotwired.dev	davidshq											
+unicode.org	davidshq											
+hbr.org	davidshq											
+haystacksearch.org	davidshq											
+hasura.io	davidshq											
+hashicorp.com	davidshq											
+hanselman.com	davidshq											
+mozilla.org	davidshq											
+gun.eco	davidshq											
+guilford.com	davidshq											
+acm.org	davidshq											
+graphviz.org	davidshq											
+grammarly.com	davidshq											
+gitlab.com	davidshq											
+bitbucket.com	davidshq											
+gitguardian.com	davidshq											
+gitconnected.com	davidshq											
+git-scm.com	davidshq											
+getpaint.net	davidshq											
+getcomposer.org	davidshq											
+getbootstrap.com	davidshq											
+wargamer.com	davidshq											
+matrixgames.com	davidshq											
+gatsbyjs.com	davidshq											
+gatesnotes.com	davidshq											
+frontendmastery.com	davidshq											
+frontendmasters.com	davidshq											
+deno.dev	davidshq											
+freeplane.org	davidshq											
+freecodecamp.org	davidshq											
+freebasic.net	davidshq											
+djangoproject.com	davidshq											
+formik.org	davidshq											
+foreignaffairs.com	davidshq											
+fly.io	davidshq											
+flexboxfroggy.com	davidshq											
+flarum.org	davidshq											
+fiverr.com	davidshq											
+figma.com	davidshq											
+faustjs.org	davidshq											
+readthedocs.io	davidshq											
+netlify.com	davidshq											
+explain.dev	davidshq											
+evilmartians.com	davidshq											
+everblocksystems.com	davidshq											
+ethereum.org	davidshq											
+eslint.org	davidshq											
+epicweb.dev	davidshq											
+elixir-lang.org	davidshq											
+emmet.io	davidshq											
+elegantthemes.com	davidshq											
+dotvvm.com	davidshq											
+microsoft.com	davidshq											
+dosbox.com	davidshq											
+dolthub.com	davidshq											
+dollarshaveclub.com	davidshq											
+docusaurus.io	davidshq											
+docker.com	davidshq											
+djangopackages.org	davidshq											
+discourse.org	davidshq											
+digitalocean.com	davidshq											
+diasporefoundation.org	davidshq											
+developers.google.com	davidshq											
+raindrop.io	davidshq											
+feedly.com	davidshq											
+chrome.com	davidshq											
+dev.to	davidshq											
+deso.com	davidshq											
+deliciousbrains.com	davidshq											
+debugmail.io	davidshq											
+debugbear.com	davidshq											
+dbpedia.org	davidshq											
+dbhub.io	davidshq											
+db-engines.com	davidshq											
+davidwalsh.name	davidshq											
+datasociety.net	davidshq											
+datasette.io	davidshq											
+dataquest.io	davidshq											
+datadoghq.com	davidshq											
+datacamp.com	davidshq											
+codecademy.com	davidshq											
+cypress.io	davidshq											
+curl.se	davidshq											
+cssgridgarden.com	davidshq											
+css-tricks.com	davidshq											
+cpubenchmark.net	davidshq											
+corgibytes.com	davidshq											
+cooperpress.com	davidshq											
+consumerreports.org	davidshq											
+commoncrawl.org	davidshq											
+commitlint.js.org	davidshq											
+codementor.io	davidshq											
+codecanyon.net	davidshq											
+themeforest.com	davidshq											
+tutsplus.com	davidshq											
+coda.io	davidshq											
+cliffsnotes.com	davidshq											
+circleboom.com	davidshq											
+charitynavigator.org	davidshq											
+chaijs.com	davidshq											
+cepa.org	davidshq											
+mit.edu	davidshq											
+canva.com	davidshq											
+caniemail.com	davidshq											
+camelcamelcamel.com	davidshq											
+amazon.com	davidshq											
+buffer.com	davidshq											
+bubble.io	davidshq											
+brew.sh	davidshq											
+apple.com	davidshq											
+bokeh.org	davidshq											
+samaltman.com	davidshq											
+coinbase.com	davidshq											
+itch.io	davidshq											
+blinkist.com	davidshq											
+bignerdranch.com	davidshq											
+betterprogramming.pub	davidshq											
+benfrain.com	davidshq											
+beeware.org	davidshq											
+backstage.io	davidshq											
+babeljs.io	davidshq											
+b4x.com	davidshq											
+axios-http.com	davidshq											
+automatetheboringstuff.com	davidshq											
+atomicobject.com	davidshq											
+atlanticcouncil.org	davidshq											
+astro.build	davidshq											
+askubuntu.com	davidshq											
+arxiv.org	davidshq											
+ardalis.com	davidshq											
+archive.org	davidshq											
+architecturenotes.co	davidshq											
+appland.com	davidshq											
+apollographql.com	davidshq											
+aosabook.org	davidshq											
+anvil.works	davidshq											
+annualreviews.org	davidshq											
+amplication.com	davidshq											
+alternativeto.net	davidshq											
+httparchive.org	davidshq											
+alistapart.com	davidshq											
+aivosto.com	davidshq											
+airtable.com	davidshq											
+ahrefs.com	davidshq											
+agilemanifesto.org	davidshq											
+addyosmani.com	davidshq											
+additudemag.com	davidshq											
+accessibilityinsights.io	davidshq											
+7-zip.org	davidshq											
+4sysops.com	davidshq											
+2ality.com	davidshq											
+stateofjs.com	davidshq											
+1dollarscan.com	davidshq											
+12ft.io	davidshq											
+12factor.net	davidshq											
+10up.com	davidshq											
+001gamecreator.com	davidshq											
