@@ -52,9 +52,9 @@ The best part about all of this is that educators aren't adding to their workloa
 
 This is the vision.
 
-## Footnotes
-- [^futureranking]: Please see the article on [the Trust Network](../S02.%20The%20Trust%20Network.md) for more information on how Phoebe will prevent abuse of this feature by spammers. It may also be helpful to note that while Suzie's customizations will be integrated into the ranking, it is the community as a whole's input as well as the usual algorithms that will determine the final ranking.
-- [^incomederived]: Phoebe will avoid integrating ads into the search results. Instead Phoebe will focus on income from a variety of sources including: Brave Attention Tokens (BAT), commercial link submissions (which will undergo a human review process), bounties on specific queries, etc.
-
 ## Join the Conversation
 I'd welcome your feedback, criticisms, suggestions, random thoughts, etc. at: https://hachyderm.io/@davidshq/110061286749064902
+
+## Footnotes
+[^futureranking]: Please see the article on [the Trust Network](../S02.%20The%20Trust%20Network.md) for more information on how Phoebe will prevent abuse of this feature by spammers. It may also be helpful to note that while Suzie's customizations will be integrated into the ranking, it is the community as a whole's input as well as the usual algorithms that will determine the final ranking.
+[^incomederived]: Phoebe will avoid integrating ads into the search results. Instead Phoebe will focus on income from a variety of sources including: Brave Attention Tokens (BAT), commercial link submissions (which will undergo a human review process), bounties on specific queries, etc.
