@@ -1,9 +1,9 @@
 # Phoebe for Teachers
-Date: 21-03-2023
+Date: 21-03-2023  
 Author: Dave Mackey
 
 ## Join the Conversation
-I'd welcome your feedback, criticisms, suggestions, random thoughts, etc. at: (update)
+I'd welcome your feedback, criticisms, suggestions, random thoughts, etc. at: https://hachyderm.io/@davidshq/110061286749064902
 
 ## Because Educators Are Awesome
 I'm a *big* fan of education and thus of educators (aka, teachers). I wanted to take a few minutes to explain how I hope Phoebe will make the lives of educators easier and more enjoyable. Whatever the future holds, my sincere thanks to all of you who are doing great work teaching us - from primary education up through doctorates and beyond.
@@ -53,4 +53,4 @@ The best part about all of this is that educators aren't adding to their workloa
 This is the vision.
 
 ## Join the Conversation
-I'd welcome your feedback, criticisms, suggestions, random thoughts, etc. at: 
+I'd welcome your feedback, criticisms, suggestions, random thoughts, etc. at: https://hachyderm.io/@davidshq/110061286749064902
